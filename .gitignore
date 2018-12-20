@@ -1,0 +1,10 @@
+env/**
+crawler_2/**
+crawler_3/**
+crawler/**
+runtime.txt
+love.json
+**/__pycache__/**
+**__pycache__**
+.idea/**
+company_index.json
